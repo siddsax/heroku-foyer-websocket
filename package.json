@@ -60,7 +60,8 @@
     "lib0": "^0.2.42",
     "lodash.debounce": "^4.0.8",
     "utf-8-validate": "^5.0.7",
-    "y-protocols": "^1.0.5"
+    "y-protocols": "^1.0.5",
+    "yjs": "^13.5.17"
   },
   "devDependencies": {
     "rollup": "^1.32.1",
