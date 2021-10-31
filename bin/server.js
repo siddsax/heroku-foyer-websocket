@@ -32,7 +32,7 @@ server.on("upgrade", (request, socket, head) => {
 // server.listen({ host, port })
 
 server.listen(port, host, function () {
-  console.log("Listening on port %d", server_port);
+  console.log("Listening on port %d", port);
 });
 
 console.log(`running at '${host}' on port ${port}`);
